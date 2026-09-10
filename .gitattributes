@@ -2,3 +2,4 @@ output/normal_vs_anomaly_distributions.png filter=lfs diff=lfs merge=lfs -text
 output/sampling_irregularity.png filter=lfs diff=lfs merge=lfs -text
 output/all_channels_overview.png filter=lfs diff=lfs merge=lfs -text
 output/correlation_matrix.png filter=lfs diff=lfs merge=lfs -text
+.png filter=lfs diff=lfs merge=lfs -text
